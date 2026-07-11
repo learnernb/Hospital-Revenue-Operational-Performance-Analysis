@@ -1,4 +1,6 @@
 🏥 Hospital Revenue & Operational Performance Analysis
+
+
 📌 Project Overview
 
 This project analyzes hospital revenue, appointment trends, and operational performance using SQL and Python. The goal is to identify inefficiencies, revenue leakage, and performance improvement opportunities through structured data analysis.
